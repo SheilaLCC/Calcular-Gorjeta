@@ -11,7 +11,7 @@ operações matemáticas e mostra o valor da conta com a gorjeta e também o que
 
 Fiz algumas alterações no código original javascript, css e html, disponibilizado pelo professor no material de apoio.
 
-Espero que te anime e contribua com o aprendizado de todos que precisa.
+Espero que te anime e contribua com o aprendizado de todos que precisam.
 
 Um abraço!!! Nunca deixe de sonhar...! 
 😊
